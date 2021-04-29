@@ -1,12 +1,8 @@
-# AWS DWH SPARKIFY PROJECT SUMMRY:
-
-Sparkify startup Company Developed music app that collected usage data in Jason Files that stored in S3 Bucket.
-The analytics team would like to know which songs users are listening to. 
-To analyze the data the team needs a quick and easy solution.
-
+# AWS DWH PROJECT SUMMRY:
 
 This project contains ETL Pipeline development in AWS environment using Python.
 The ETL Pipeline designed  to extract data from AWS S3 and transform data from staging tables to dimension and fact tables in AWS Redshift, using STAR schema.
+used for analysis of data usage from a music app.
 
 The primery Tables are:
 
